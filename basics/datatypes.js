@@ -26,7 +26,15 @@ console.log(typeof age);
   String, number, boolean, null, undefined, symbol(used to make a value unique), BigInt
 
   #Reference(Non-Primitive):
-  Array, Objects, Functions
+  Array, Objects, Function
 
-  
+  const fam=["tanya","tanish","mum","dad"];
+  let myObj={
+    name:"hehe",
+    age:"21",
+  }
+    const myFunction=function(){
+      console.log("hemlo");
+    }
+
 */
